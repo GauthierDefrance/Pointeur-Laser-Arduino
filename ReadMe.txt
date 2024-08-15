@@ -19,6 +19,7 @@ ______________________________________________________________
 | - Un acceleromètre  (gy-521 MPU6050)
 | - un magnétomètre (GY-271 QMC5883L)
 | - Un laser (KY-008)
+| - Un joystick (jy-023)
 | - Un ordinateur avec l'arduino IDE
 |_____________________________________________________________
 
