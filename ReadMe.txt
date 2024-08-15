@@ -23,6 +23,8 @@ ______________________________________________________________
 | - Un ordinateur avec l'arduino IDE
 |_____________________________________________________________
 
+Vous pouvez trouver les composants sur Aliexpress pour pas trop cher.
+
 Je recommande d'utiliser également un "Sensor Shield" pour
 Arduino UNO, mais aussi des supports métalliques afin d'avoir
 une structure solide.
