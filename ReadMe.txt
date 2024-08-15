@@ -52,22 +52,22 @@ http://pr.chauveau.free.fr/spip/spip.php?page=article_pgm&id_rubrique=60
 
 
 QMC5883LCompass
-
+https://github.com/mprograms/QMC5883LCompass
 
 
 
 Adafruit_Sensor
-
+https://github.com/adafruit/Adafruit_Sensor
 
 
 
 Adafruit_MPU6050
-
+https://github.com/adafruit/Adafruit_MPU6050
 
 
 
 myStepMotor (Bibliothèque conçu par moi même pour controler les moteurs pas à pas).
-
+https://github.com/GauthierDefrance/Pointeur-Laser-Arduino/tree/main/Code/MyStepMotor%20Library
 
 
 
