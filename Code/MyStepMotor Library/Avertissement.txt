@@ -1,3 +1,5 @@
 Ce fichier a était fait par un débutant.
+Bien qu'il vous sera nécessaire afin d'utiliser le code écrit après.
 Je vous recommande plutôt d'utiliser la bibliothèques Stepper.
+Pour des projets perso.
 https://www.arduino.cc/reference/en/libraries/stepper/
