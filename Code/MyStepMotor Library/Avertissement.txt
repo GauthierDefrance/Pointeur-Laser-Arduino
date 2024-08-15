@@ -1,0 +1,3 @@
+Ce fichier a était fait par un débutant.
+Je vous recommande plutôt d'utiliser la bibliothèques Stepper.
+https://www.arduino.cc/reference/en/libraries/stepper/
